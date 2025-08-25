@@ -60,6 +60,10 @@ A aplicação segue uma arquitetura em camadas bem definida para separar as resp
 
 ## 🗂️ Modelo de Dados
 
+A imagem abaixo representa o modelo de entidades do banco de dados:
+
+![Modelo de Dados](assets/dslist-model.png)
+
 O banco de dados é composto por três entidades principais:
 
 1.  **Game:** Representa um jogo, com atributos como título, ano, gênero, etc..
